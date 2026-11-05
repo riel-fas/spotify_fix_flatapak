@@ -1,0 +1,1 @@
+# spotify_fix_flatapak
